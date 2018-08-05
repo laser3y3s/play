@@ -1,5 +1,5 @@
-this is a new branch
-This is the third commit 
+this is a new branch,  branch1
+This is the second commit to the first branch
 
 changes mde to the third line on third commit!
 
